@@ -1,5 +1,4 @@
 # Fraud-Detection
-Fraud Detection using Random Forest
 This project focuses on building a fraud detection model using Random Forest. The dataset used contains transactions labeled as fraudulent or non-fraudulent. The goal is to predict whether a transaction is fraudulent based on the features provided in the dataset.
 
 Evaluation Metrics
